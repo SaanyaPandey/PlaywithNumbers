@@ -10,7 +10,7 @@ int main()
         printf("The number chosen by you is even.");
     }
     else{
-        printf("The number Chosen By you is even.");
+        printf("The number Chosen By you is odd.");
     }
     return 0;
 }
